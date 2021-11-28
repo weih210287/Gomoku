@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gomoku/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/Gomoku/static/js/main.9deec5e5.chunk.js",
+    "main.js.map": "/Gomoku/static/js/main.9deec5e5.chunk.js.map",
+    "runtime-main.js": "/Gomoku/static/js/runtime-main.ce674a5e.js",
+    "runtime-main.js.map": "/Gomoku/static/js/runtime-main.ce674a5e.js.map",
+    "static/js/2.db732ca2.chunk.js": "/Gomoku/static/js/2.db732ca2.chunk.js",
+    "static/js/2.db732ca2.chunk.js.map": "/Gomoku/static/js/2.db732ca2.chunk.js.map",
+    "static/js/3.509929cd.chunk.js": "/Gomoku/static/js/3.509929cd.chunk.js",
+    "static/js/3.509929cd.chunk.js.map": "/Gomoku/static/js/3.509929cd.chunk.js.map",
+    "index.html": "/Gomoku/index.html",
+    "static/css/main.4a4137e4.chunk.css.map": "/Gomoku/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.db732ca2.chunk.js.LICENSE.txt": "/Gomoku/static/js/2.db732ca2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce674a5e.js",
+    "static/js/2.db732ca2.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.9deec5e5.chunk.js"
+  ]
+}
